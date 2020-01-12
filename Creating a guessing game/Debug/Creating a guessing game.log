@@ -1,0 +1,4 @@
+﻿  Guess Game Build Upon.cpp
+c:\users\emman\source\repos\creating a guessing game\creating a guessing game\guess game build upon.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Creating a guessing game.vcxproj -> C:\Users\emman\source\repos\Creating a guessing game\Debug\Creating a guessing game.exe
+  Creating a guessing game.vcxproj -> C:\Users\emman\source\repos\Creating a guessing game\Debug\Creating a guessing game.pdb (Partial PDB)
